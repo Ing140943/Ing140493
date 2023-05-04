@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Setthanat Kladee :smiley:
 ========================================================================================================================================
 
-Software and Knowledge Engineering Student (Almost Graduate in 2 months)
+Software and Knowledge Engineering Student (Almost Graduate in 1 month)
 ------------------------------------------------------------------------
 
 I've been learning code for 4 years, I started with python right now I familiar with JavaScript and python. For frontend I love to learn and implement react project, I'm also familiar with solidity. For database, I learn both relationship and non-relationship database even I'm not expert with it but I can apply it in my project. Currently I'm studying in cloud, microservice and AWS. Right now I'm lookin for a full-time job in position that related to the software engineer. I love to learn new thing and keep improve myself.
